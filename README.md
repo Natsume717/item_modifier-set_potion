@@ -1,0 +1,2 @@
+# item_modifier-set_potion
+item_modifierの1項目であるset_potionに関するサンプルになります。
