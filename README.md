@@ -1,8 +1,7 @@
 # item_modifier-set_potion
 item_modifierの1項目であるset_potionに関するサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】set_potionでポーション効果を付与【item_modifier】](https://natsumake.com/item_modifier-set_potion/)』を参考にしてください。
 
 <h3>概要</h3>
 ポーションや水入り瓶に対して、ポーション効果を適用させることが出来ます。
